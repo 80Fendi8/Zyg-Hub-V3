@@ -23,15 +23,21 @@ Report issues to our discord server: https://discord.gg/bexbpyyg8a
 * Visuals
     * Health ESP
     * Name ESP
-    * No Fog
+    * Place ESP
+    * Ingredient ESP
     * FullBright
     * Streamer Mode
- 
+* Removals
+    * No Fog
+    * No Acid
+    * No KillBricks
 * Misc
     * Proximity Prompt
     * Chat Logger
     * Anti AFK
+    * Auto Loot Chests
+    * Enable all Modifiers
 * W.I.P
     * Layer 2 Floor 1 Autofarmer
- 
+    * Void Mobs
 * Theres Always more to come!
