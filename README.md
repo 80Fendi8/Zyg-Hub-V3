@@ -1,5 +1,7 @@
 # Script
-# loadstring(game:HttpGet("https://raw.githubusercontent.com/80Fendi8/Zyg-Hub-V3/refs/heads/main/Main"))()
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/80Fendi8/Zyg-Hub-V3/refs/heads/main/Main"))()
+```
 
 this script is Free In https://github.com/80Fendi8/Zyg-Hub-V3-/blob/main/Main  
 But you will need to get whitelisted in the server first: https://discord.gg/bexbpyyg8a
