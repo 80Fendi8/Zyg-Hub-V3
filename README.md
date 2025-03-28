@@ -1,6 +1,6 @@
 # Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/80Fendi8/Zyg-Hub-V3/refs/heads/main/Main"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a07361744e76454c31a5b7bd7e40f7ee.lua"))()
 ```
 
 this script is Free In https://github.com/80Fendi8/Zyg-Hub-V3-/blob/main/Main  
